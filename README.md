@@ -1,0 +1,2 @@
+# Hotel-Data-Analysis-w-Python-Pandas-Matplotlib-Seaborn-
+Using Python (Pandas, Matplotlib, Seaborn) in Jupyter Notebook, I analyzed 119K+ hotel bookings to uncover key cancellation trends. I cleaned and transformed data, conducted exploratory data analysis and visualizations, and identified higher cancellations linked to price, seasonality, and location, providing recommendations to improve revenue.
